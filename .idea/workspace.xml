@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0030d4a1-4954-4767-afd2-a18c9a01a42f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="95b85ea1-1b6d-400f-b5c5-fb3f54fa783f" />
+  <component name="ProjectId" id="1jJtqYhngNwfLYW027mHmDzvode" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0030d4a1-4954-4767-afd2-a18c9a01a42f" name="Default Changelist" comment="" />
+      <created>1603534215467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603534215467</updated>
+      <workItem from="1603534216624" duration="662000" />
+      <workItem from="1603614818223" duration="374000" />
+      <workItem from="1603615383583" duration="919000" />
+      <workItem from="1603645195575" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="65" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603615428270">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="65" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1218.720@0.0.1218.720" timestamp="1603615428270" />
+    <state x="390" y="102" key="FileChooserDialogImpl" timestamp="1603615481859">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="390" y="102" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1603615481859" />
+    <state x="487" y="258" key="Github.ShareDialog" timestamp="1603615120013">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="487" y="258" key="Github.ShareDialog/0.0.1218.720@0.0.1218.720" timestamp="1603615120013" />
+    <state x="111" y="5" key="SettingsEditor" timestamp="1603615460701">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="111" y="5" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1603615460701" />
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1603615476568">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1218.720@0.0.1218.720" timestamp="1603615476568" />
+  </component>
+</project>
